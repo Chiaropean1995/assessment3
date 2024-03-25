@@ -120,7 +120,7 @@ export default function BookingTable() {
                     </Navbar.Collapse>
                 </Container>
             </Navbar >
-            <Col sm={10} className="mx-auto ">
+            <Col >
                 <div style={{ paddingTop: '80px' }}>
                     <table className="table table-bordered table-sm">
                         <thead className="table-dark">
