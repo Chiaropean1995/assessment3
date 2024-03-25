@@ -1,0 +1,12 @@
+.custom-nav-link {
+    display: flex;
+    align-items: center;
+    margin-left: 80px;
+    justify-content: flex-start;
+}
+
+.custom-nav-link1 {
+    position: absolute;
+    right: 50px;
+    top: 5px;
+}
